@@ -18,5 +18,10 @@
         "title": "D.J. Russo's Author Site",
         "url": "https://djrusso.mailerpage.com/",
         "feed": null
+    },
+    {
+       "title": "Coralie Moss",
+        "url": "https://coraliemoss.com",
+        "feed": "https://coraliemoss.com/blog/"
     }
 ]
