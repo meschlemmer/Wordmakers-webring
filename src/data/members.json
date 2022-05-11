@@ -3,5 +3,20 @@
         "title": "Molly Schlemmer",
         "url": "https://www.mollyschlemmer.com/",
         "feed": "https://www.mollyschlemmer.com/feed/"
-    } 
+    }, 
+    {
+        "title": "Renee Dahlia",
+        "url": "http://www.reneedahlia.com/",
+        "feed": null
+    },
+    {
+        "title": "Author Lisa Kessler/L.A. Kessler",
+        "url": "http://authorlisakessler.com",
+        "feed": "http://authorlisakessler.com/feed/"
+    },
+    {
+        "title": "D.J. Russo's Author Site",
+        "url": "https://djrusso.mailerpage.com/",
+        "feed": null
+    }
 ]
