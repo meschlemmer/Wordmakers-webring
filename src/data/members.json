@@ -23,5 +23,10 @@
        "title": "Coralie Moss",
         "url": "https://coraliemoss.com",
         "feed": "https://coraliemoss.com/blog/"
+    },
+    {
+        "title": "Rien Gray",
+        "url": "https://www.riengray.com/",
+        "feed": null
     }
 ]
