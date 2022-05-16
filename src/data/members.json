@@ -33,5 +33,15 @@
         "title": "Rae Shawn",
         "url": "https://www.loveraeshawn.com/",
         "feed": null
+    },
+    {
+     "title": "Stella Williams Author Site",
+        "url": "https://www.stellawilliamsauthor.com",
+        "feed": "https://www.stellawilliamsauthor.com/feed.xml"
+    },
+    {
+        "title": "Laura Tatum",
+        "url": "https://www.lauratatum.com/",
+        "feed": null
     }
 ]
